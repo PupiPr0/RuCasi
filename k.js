@@ -2,7 +2,7 @@
 
 (function () {
 
-  var redirectURL = "https://repo-main.wildmoney.pro/app/ludik.pdf";
+  var redirectURL = "https://repo-main.wildmoney.pro/app/rucasic/mobile";
 
   var breakpoint = 777;
 
